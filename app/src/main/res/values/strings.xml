@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayout_01</string>
+    <string name="textView1">TextView-1</string>
+    <string name="textView2">TextView-2</string>
+    <string name="textView3">TextView-3</string>
+    <string name="button1">버튼-1</string>
+    <string name="button2">버튼-2</string>
+    <string name="button3">버튼-3</string>
+</resources>
